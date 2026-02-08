@@ -4,8 +4,8 @@ This is a vitual vending machine which you can purchase our selected products, s
 ## Features
 -Select products with different prices
 -Receive bank notes and coins
--Give back left over change
--Give accurate calculations
+-Gives back left over change
+-Gives accurate calculations
 
 ## Technologies
 -Python v.3
